@@ -7,9 +7,10 @@ Java RESTful API criada para a Santander Dev Week
 
 classDiagram
   class User {
-    -String name
-    -Account account
-    -Feature[] features
-    -Card card
-    -News[] news
+    - String name
+    - Account account
+    - Feature[] features
+    - Card card
+    - News[] news
 }
+
