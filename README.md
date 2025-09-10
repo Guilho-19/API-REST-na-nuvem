@@ -40,6 +40,7 @@ classDiagram
   user --> Feature
   user --> Card
   user --> News
-´´´
+```
+
 
 
