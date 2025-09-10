@@ -36,11 +36,13 @@ classDiagram
     - String description
 }
 
-  user --> Account
-  user --> Feature
-  user --> Card
-  user --> News
+  User --> Account
+  User --> Feature
+  User --> Card
+  User --> News
+
 ```
+
 
 
 
